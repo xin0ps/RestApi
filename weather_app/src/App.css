@@ -1,0 +1,17 @@
+
+.day {
+  width: 100vw;
+  height: 100vh;
+  background-image: url('https://e0.pxfuel.com/wallpapers/918/776/desktop-wallpaper-summer-sunny-day-bright-sunny-day.jpg'); 
+  background-size: cover;
+  transition: background-image 1s ease;
+}
+
+.night {
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  background-image: url('https://image.hurimg.com/i/hurriyet/75/0x0/64a1f2054e3fe02ed86afad3.jpg'); 
+  background-size: cover;
+  transition: background-image 1s ease;
+}

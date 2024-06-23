@@ -1,0 +1,46 @@
+
+
+.mainDiv {
+    height: 600px;
+    width: 450px;
+    background-color: hsl(212, 21%, 86%);
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    padding: 20px; 
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+  }
+  
+  .fieldsDiv {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    margin-top: 20px; 
+  }
+  
+  .fieldsDiv input {
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+    font-size: larger;
+    padding: 5px;
+  }
+  
+  .dataDiv {
+    margin-top: 20px; 
+  }
+  
+  .dataDiv img {
+    height: 80px; 
+    width: 80px; 
+    margin-top: 10px; 
+  }
+
+
+  
